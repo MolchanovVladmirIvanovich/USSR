@@ -1,10 +1,13 @@
 ************************************************
-#  Donbass za nami
-Prosnulsya Zverʹ v kromeshnoy temnote
+#  Donbass za nami(Донбасс за нами)
+**Prosnulsya Zverʹ v kromeshnoy temnote**
+Проснулся Зверь в кромешной темноте
 
-I Bogu byla nazvana tsena,
+**I Bogu byla nazvana tsena,**
+И Богу была названа цена,
 
-Prognulisʹ vse — i bratʹya vo Khriste,
+**Prognulisʹ vse — i bratʹya vo Khriste,**
+Прогнулись все — и братья во Христе,
 
 Prognulosʹ vsyo, no ne moya strana.
 
